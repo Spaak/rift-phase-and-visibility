@@ -2,6 +2,8 @@
 
 The experiment and analysis code for Spaak, Bouwkamp, & De Lange (2024). [Perceptual foundation and extension to phase tagging for rapid invisible frequency tagging (RIFT)](https://doi.org/10.1162/imag_a_00242). Imaging Neuroscience, 2, 1–14. [https://doi.org/10.1162/imag_a_00242](https://doi.org/10.1162/imag_a_00242)
 
+If any of this code is useful, and/or you end up using it, please cite the above publication.
+
 # Brief general code overview
 
 The code is split between Python and Matlab. Everything that directly deals with MEG data is done in Matlab (using custom scripts and FieldTrip). Matlab code either exports data to .csv files, for further analysis in Python, or produces plots directly (topoplots, source plots). You'll find references to some absolute paths in the code. Whenever the path `/project/3018045.03/` is mentioned, the relevant data should be available at the Donders/Radboud Repository under [https://doi.org/10.34973/8dx5-7e51](https://doi.org/10.34973/8dx5-7e51). Whenever `/home/predatt/eelspa/riftbasics/analysis-4paper/` is mentioned, this basically refers to the present repository. Obviously, you'll need to adapt these paths if you want to run the code yourself.

@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Spaak"
+  given-names: "Eelke"
+title: "Analysis code for Spaak, Bouwkamp, & De Lange (2024)"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Spaak"
+    given-names: "Eelke"
+  - family-names: "Bouwkamp"
+    given-names: "Floortje G"
+  - family-names: "De Lange"
+    given-names: "Floris P"
+  doi: "10.1162/imag_a_00242"
+  journal: "Imaging Neuroscience"
+  start: 1 # First page number
+  end: 14 # Last page number
+  title: "Perceptual foundation and extension to phase tagging for rapid invisible frequency tagging (RIFT)"
+  issue: 2
+  year: 2024
+  url: https://doi.org/10.1162/imag_a_00242
