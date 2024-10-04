@@ -1,3 +1,10 @@
+% Copyright 2024 Eelke Spaak, Donders Institute.
+% See https://github.com/Spaak/rift-phase-and-visibility for readme/license.
+% Belongs with:
+% Spaak, E., Bouwkamp, F. G., & de Lange, F. P. (2024). Perceptual foundation and extension
+% to phase tagging for rapid invisible frequency tagging (RIFT). Imaging Neuroscience, 2, 1–14.
+% https://doi.org/10.1162/imag_a_00242
+
 t = 0:0.0005:0.1;
 f = 62;
 
