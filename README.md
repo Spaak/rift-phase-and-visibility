@@ -12,6 +12,8 @@ Where possible, I've included all intermediate and raw files in either this repo
 
 For the Python code, a complete conda environment specification is included under `python/conda-spec-file.txt`.
 
+In general, files labelled `job_` are meant to run once per e.g. participant (or random seed or so), while `process_` files then load and process the results created by the job files. Files labelled `run_` are meant to run interactively, mainly the MEG preprocessing steps.
+
 # More detailed outline of data and files
 
 (in relation to figures in the paper and related stats)
