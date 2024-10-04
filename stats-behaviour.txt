@@ -1,0 +1,186 @@
+60 Hz vs 66 Hz (type 1):
+                          mean     sd  hdi_3%  hdi_97%  mcse_mean  mcse_sd  \
+Intercept                0.452  0.413  -0.330    1.173      0.020    0.014   
+ProbeStim               -0.062  0.256  -0.518    0.437      0.005    0.005   
+1|Subject_sigma          1.152  0.445   0.497    2.003      0.017    0.012   
+ProbeStim|Subject_sigma  0.466  0.326   0.002    1.033      0.010    0.007   
+1|Subject[1]            -0.008  0.501  -0.950    0.906      0.020    0.020   
+1|Subject[3]            -0.488  0.536  -1.394    0.541      0.024    0.017   
+1|Subject[4]            -0.184  0.509  -1.113    0.798      0.019    0.014   
+1|Subject[5]             0.497  0.513  -0.447    1.472      0.019    0.018   
+1|Subject[6]             2.721  0.986   1.057    4.495      0.037    0.028   
+1|Subject[7]            -0.679  0.495  -1.575    0.250      0.020    0.014   
+1|Subject[8]            -0.645  1.151  -2.841    1.392      0.022    0.019   
+1|Subject[9]             0.092  0.643  -1.145    1.298      0.021    0.020   
+1|Subject[10]           -0.189  0.505  -1.126    0.721      0.023    0.019   
+1|Subject[11]           -0.019  0.511  -0.923    0.922      0.021    0.023   
+1|Subject[13]           -0.527  0.500  -1.455    0.378      0.020    0.014   
+1|Subject[14]           -0.407  0.499  -1.367    0.456      0.020    0.014   
+ProbeStim|Subject[1]    -0.320  0.429  -1.254    0.309      0.011    0.008   
+ProbeStim|Subject[3]    -0.328  0.426  -1.192    0.346      0.010    0.007   
+ProbeStim|Subject[4]     0.318  0.428  -0.398    1.176      0.011    0.007   
+ProbeStim|Subject[5]    -0.155  0.392  -1.020    0.538      0.008    0.007   
+ProbeStim|Subject[6]     0.234  0.578  -0.715    1.450      0.015    0.012   
+ProbeStim|Subject[7]     0.285  0.433  -0.399    1.204      0.009    0.006   
+ProbeStim|Subject[8]    -0.124  0.565  -1.282    0.943      0.012    0.009   
+ProbeStim|Subject[9]    -0.042  0.463  -0.972    0.886      0.009    0.008   
+ProbeStim|Subject[10]    0.198  0.384  -0.474    1.006      0.008    0.006   
+ProbeStim|Subject[11]    0.046  0.366  -0.649    0.789      0.007    0.005   
+ProbeStim|Subject[13]   -0.158  0.375  -0.953    0.496      0.008    0.006   
+ProbeStim|Subject[14]    0.056  0.363  -0.698    0.754      0.007    0.006   
+
+                         ess_bulk  ess_tail  r_hat  
+Intercept                   614.0     447.0   1.01  
+ProbeStim                  2238.0    1908.0   1.00  
+1|Subject_sigma             814.0     773.0   1.01  
+ProbeStim|Subject_sigma     965.0    1194.0   1.00  
+1|Subject[1]                735.0     608.0   1.00  
+1|Subject[3]                742.0     623.0   1.00  
+1|Subject[4]                843.0     561.0   1.01  
+1|Subject[5]                922.0     668.0   1.00  
+1|Subject[6]                926.0     738.0   1.01  
+1|Subject[7]                822.0     509.0   1.01  
+1|Subject[8]               2984.0    2129.0   1.00  
+1|Subject[9]                997.0     587.0   1.01  
+1|Subject[10]               790.0     595.0   1.01  
+1|Subject[11]               807.0     532.0   1.01  
+1|Subject[13]               791.0     574.0   1.00  
+1|Subject[14]               820.0     610.0   1.01  
+ProbeStim|Subject[1]       1579.0    1354.0   1.00  
+ProbeStim|Subject[3]       1784.0    2035.0   1.00  
+ProbeStim|Subject[4]       1721.0    2099.0   1.00  
+ProbeStim|Subject[5]       2186.0    1090.0   1.00  
+ProbeStim|Subject[6]       1931.0    1474.0   1.00  
+ProbeStim|Subject[7]       2232.0    2755.0   1.00  
+ProbeStim|Subject[8]       2579.0    2272.0   1.00  
+ProbeStim|Subject[9]       2723.0    1499.0   1.00  
+ProbeStim|Subject[10]      2357.0    2984.0   1.00  
+ProbeStim|Subject[11]      3229.0    2821.0   1.00  
+ProbeStim|Subject[13]      2325.0    2693.0   1.00  
+ProbeStim|Subject[14]      2511.0    2721.0   1.00  
+
+60 Hz vs 66 Hz (type 1): BF01 = [19.4642163]
+60 Hz vs no tagging (type 1):
+                          mean     sd  hdi_3%  hdi_97%  mcse_mean  mcse_sd  \
+Intercept                0.277  0.387  -0.460    1.034      0.012    0.009   
+ProbeStim                0.133  0.226  -0.300    0.550      0.005    0.005   
+1|Subject_sigma          1.185  0.426   0.502    1.968      0.012    0.009   
+ProbeStim|Subject_sigma  0.361  0.278   0.001    0.850      0.008    0.006   
+1|Subject[1]            -0.540  0.512  -1.522    0.417      0.014    0.010   
+1|Subject[3]            -0.053  0.473  -0.927    0.864      0.013    0.009   
+1|Subject[4]            -0.117  0.473  -1.004    0.794      0.013    0.009   
+1|Subject[5]             0.203  0.478  -0.639    1.143      0.012    0.009   
+1|Subject[6]             2.820  0.975   1.089    4.607      0.022    0.016   
+1|Subject[7]             0.217  0.473  -0.696    1.133      0.012    0.009   
+1|Subject[8]            -1.395  0.815  -3.053   -0.032      0.016    0.012   
+1|Subject[9]            -0.375  0.509  -1.295    0.600      0.013    0.009   
+1|Subject[10]           -0.004  0.477  -0.864    0.972      0.013    0.009   
+1|Subject[11]            0.095  0.477  -0.790    1.018      0.013    0.009   
+1|Subject[13]           -0.535  0.474  -1.401    0.384      0.013    0.009   
+1|Subject[14]           -0.116  0.485  -1.028    0.808      0.013    0.009   
+ProbeStim|Subject[1]     0.249  0.380  -0.279    1.109      0.009    0.006   
+ProbeStim|Subject[3]     0.017  0.308  -0.570    0.649      0.006    0.005   
+ProbeStim|Subject[4]    -0.024  0.311  -0.640    0.610      0.006    0.005   
+ProbeStim|Subject[5]     0.035  0.324  -0.622    0.683      0.006    0.005   
+ProbeStim|Subject[6]     0.215  0.490  -0.603    1.163      0.010    0.007   
+ProbeStim|Subject[7]     0.109  0.329  -0.476    0.810      0.007    0.005   
+ProbeStim|Subject[8]    -0.152  0.445  -1.110    0.589      0.009    0.009   
+ProbeStim|Subject[9]    -0.099  0.355  -0.859    0.532      0.007    0.005   
+ProbeStim|Subject[10]   -0.153  0.342  -0.866    0.466      0.007    0.005   
+ProbeStim|Subject[11]   -0.063  0.315  -0.740    0.519      0.006    0.005   
+ProbeStim|Subject[13]    0.121  0.327  -0.503    0.781      0.007    0.005   
+ProbeStim|Subject[14]   -0.261  0.386  -1.017    0.337      0.009    0.008   
+
+                         ess_bulk  ess_tail  r_hat  
+Intercept                  1020.0    1392.0   1.01  
+ProbeStim                  2359.0    1708.0   1.00  
+1|Subject_sigma            1140.0    1973.0   1.01  
+ProbeStim|Subject_sigma    1141.0    1449.0   1.00  
+1|Subject[1]               1446.0    1764.0   1.00  
+1|Subject[3]               1403.0    1881.0   1.00  
+1|Subject[4]               1357.0    1812.0   1.00  
+1|Subject[5]               1479.0    1898.0   1.01  
+1|Subject[6]               1995.0    2488.0   1.00  
+1|Subject[7]               1482.0    1900.0   1.01  
+1|Subject[8]               2631.0    3054.0   1.00  
+1|Subject[9]               1483.0    2125.0   1.01  
+1|Subject[10]              1362.0    1854.0   1.00  
+1|Subject[11]              1326.0    1883.0   1.01  
+1|Subject[13]              1397.0    1811.0   1.00  
+1|Subject[14]              1456.0    1978.0   1.00  
+ProbeStim|Subject[1]       2077.0    2332.0   1.00  
+ProbeStim|Subject[3]       2979.0    2434.0   1.00  
+ProbeStim|Subject[4]       3237.0    2582.0   1.00  
+ProbeStim|Subject[5]       3176.0    2313.0   1.00  
+ProbeStim|Subject[6]       2980.0    2629.0   1.00  
+ProbeStim|Subject[7]       2721.0    2880.0   1.00  
+ProbeStim|Subject[8]       3260.0    2219.0   1.00  
+ProbeStim|Subject[9]       3036.0    2746.0   1.00  
+ProbeStim|Subject[10]      2768.0    2444.0   1.00  
+ProbeStim|Subject[11]      2813.0    2572.0   1.00  
+ProbeStim|Subject[13]      2534.0    2615.0   1.00  
+ProbeStim|Subject[14]      2032.0    1831.0   1.00  
+
+60 Hz vs no tagging (type 1): BF01 = [19.44697409]
+60 Hz vs no tagging (type 4):
+                          mean     sd  hdi_3%  hdi_97%  mcse_mean  mcse_sd  \
+Intercept                0.127  0.239  -0.298    0.603      0.007    0.005   
+ProbeStim                0.072  0.195  -0.281    0.460      0.003    0.003   
+1|Subject_sigma          0.658  0.219   0.314    1.080      0.006    0.004   
+ProbeStim|Subject_sigma  0.209  0.171   0.000    0.513      0.004    0.003   
+1|Subject[1]            -0.445  0.342  -1.083    0.211      0.008    0.005   
+1|Subject[3]             0.482  0.353  -0.145    1.173      0.007    0.005   
+1|Subject[4]            -0.087  0.338  -0.751    0.532      0.007    0.005   
+1|Subject[5]            -0.291  0.331  -0.918    0.317      0.007    0.005   
+1|Subject[6]             1.350  0.449   0.491    2.178      0.010    0.007   
+1|Subject[7]             0.057  0.327  -0.583    0.641      0.007    0.005   
+1|Subject[8]            -0.238  0.341  -0.868    0.419      0.007    0.005   
+1|Subject[9]            -0.042  0.346  -0.675    0.627      0.007    0.005   
+1|Subject[10]           -0.437  0.340  -1.082    0.175      0.008    0.005   
+1|Subject[11]            0.336  0.330  -0.271    0.973      0.007    0.005   
+1|Subject[13]           -0.259  0.334  -0.888    0.369      0.008    0.005   
+1|Subject[14]           -0.364  0.344  -1.006    0.266      0.008    0.006   
+ProbeStim|Subject[1]    -0.058  0.227  -0.510    0.374      0.004    0.003   
+ProbeStim|Subject[3]     0.048  0.221  -0.336    0.541      0.004    0.003   
+ProbeStim|Subject[4]    -0.027  0.225  -0.517    0.388      0.004    0.004   
+ProbeStim|Subject[5]    -0.102  0.241  -0.646    0.279      0.004    0.004   
+ProbeStim|Subject[6]     0.031  0.231  -0.394    0.534      0.004    0.004   
+ProbeStim|Subject[7]     0.009  0.211  -0.397    0.455      0.003    0.003   
+ProbeStim|Subject[8]     0.072  0.225  -0.360    0.537      0.004    0.003   
+ProbeStim|Subject[9]    -0.097  0.241  -0.623    0.283      0.005    0.004   
+ProbeStim|Subject[10]    0.065  0.230  -0.338    0.588      0.004    0.003   
+ProbeStim|Subject[11]    0.007  0.216  -0.430    0.465      0.003    0.003   
+ProbeStim|Subject[13]   -0.006  0.211  -0.407    0.448      0.004    0.003   
+ProbeStim|Subject[14]    0.064  0.228  -0.349    0.554      0.004    0.003   
+
+                         ess_bulk  ess_tail  r_hat  
+Intercept                  1182.0    1628.0   1.01  
+ProbeStim                  3493.0    2017.0   1.00  
+1|Subject_sigma            1236.0    1707.0   1.00  
+ProbeStim|Subject_sigma    1929.0    2282.0   1.00  
+1|Subject[1]               2109.0    2292.0   1.00  
+1|Subject[3]               2466.0    2535.0   1.00  
+1|Subject[4]               2242.0    2664.0   1.00  
+1|Subject[5]               2162.0    2083.0   1.00  
+1|Subject[6]               2100.0    2256.0   1.00  
+1|Subject[7]               2029.0    2719.0   1.00  
+1|Subject[8]               2444.0    2882.0   1.00  
+1|Subject[9]               2473.0    2469.0   1.00  
+1|Subject[10]              2035.0    2564.0   1.00  
+1|Subject[11]              2276.0    2635.0   1.00  
+1|Subject[13]              1976.0    2620.0   1.00  
+1|Subject[14]              2130.0    2360.0   1.00  
+ProbeStim|Subject[1]       4047.0    3255.0   1.00  
+ProbeStim|Subject[3]       4084.0    2863.0   1.00  
+ProbeStim|Subject[4]       3750.0    2700.0   1.00  
+ProbeStim|Subject[5]       3572.0    2313.0   1.00  
+ProbeStim|Subject[6]       3912.0    2535.0   1.00  
+ProbeStim|Subject[7]       4640.0    2704.0   1.00  
+ProbeStim|Subject[8]       4162.0    3263.0   1.00  
+ProbeStim|Subject[9]       3504.0    2358.0   1.00  
+ProbeStim|Subject[10]      3505.0    2865.0   1.00  
+ProbeStim|Subject[11]      4487.0    2645.0   1.00  
+ProbeStim|Subject[13]      3959.0    2616.0   1.00  
+ProbeStim|Subject[14]      3870.0    2539.0   1.00  
+
+60 Hz vs no tagging (type 4): BF01 = [26.05412224]

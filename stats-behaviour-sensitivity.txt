@@ -1,0 +1,367 @@
+sensitivity results:
+true sensitivity: 0.4
+                        mean     sd  hdi_3%  hdi_97%  r_hat     bf_10    bf_01
+ProbeStim             -0.581  0.338  -1.199   -0.086   1.07    2.5945  0.38544
+ProbeStim|Subject[1]   0.042  0.342  -0.697    0.708   1.05  0.059253   16.877
+ProbeStim|Subject[3]  -0.081  0.355  -0.777    0.606   1.05   0.06509   15.363
+ProbeStim|Subject[4]   0.125  0.350  -0.415    0.950   1.02  0.065684   15.225
+ProbeStim|Subject[5]  -0.355  0.519  -1.316    0.381   1.05  0.089644   11.155
+ProbeStim|Subject[6]  -0.012  0.403  -0.792    0.778   1.06  0.064943   15.398
+ProbeStim|Subject[7]  -0.093  0.395  -0.989    0.586   1.06  0.068091   14.686
+ProbeStim|Subject[8]   0.090  0.372  -0.517    0.885   1.04   0.07076   14.132
+ProbeStim|Subject[9]  -0.023  0.309  -0.570    0.642   1.02  0.055222   18.109
+ProbeStim|Subject[10] -0.207  0.442  -1.092    0.532   1.06  0.071495   13.987
+ProbeStim|Subject[11]  0.153  0.350  -0.432    0.914   1.03  0.064048   15.613
+ProbeStim|Subject[13] -0.322  0.519  -1.409    0.384   1.05  0.088728    11.27
+ProbeStim|Subject[14] -0.024  0.406  -0.756    0.711   1.05  0.067535   14.807
+
+true sensitivity: 0.41
+                        mean     sd  hdi_3%  hdi_97%  r_hat     bf_10    bf_01
+ProbeStim             -0.685  0.179  -1.022   -0.370    1.0    5.1311  0.19489
+ProbeStim|Subject[1]   0.038  0.176  -0.293    0.399    1.0  0.033071   30.238
+ProbeStim|Subject[3]   0.095  0.193  -0.214    0.501    1.0  0.033458   29.888
+ProbeStim|Subject[4]  -0.056  0.191  -0.484    0.265    1.0  0.033633   29.732
+ProbeStim|Subject[5]  -0.047  0.186  -0.434    0.297    1.0  0.037041   26.997
+ProbeStim|Subject[6]  -0.070  0.192  -0.483    0.282    1.0  0.036123   27.683
+ProbeStim|Subject[7]   0.062  0.182  -0.326    0.407    1.0  0.035368   28.274
+ProbeStim|Subject[8]  -0.042  0.177  -0.409    0.276    1.0    0.0327   30.581
+ProbeStim|Subject[9]  -0.037  0.188  -0.417    0.336    1.0  0.034418   29.054
+ProbeStim|Subject[10]  0.050  0.184  -0.265    0.435    1.0  0.035988   27.787
+ProbeStim|Subject[11] -0.048  0.179  -0.468    0.246    1.0  0.034648   28.861
+ProbeStim|Subject[13]  0.004  0.173  -0.363    0.343    1.0  0.033966   29.441
+ProbeStim|Subject[14]  0.017  0.175  -0.346    0.357    1.0  0.033843   29.548
+
+true sensitivity: 0.42
+                        mean     sd  hdi_3%  hdi_97%  r_hat     bf_10    bf_01
+ProbeStim             -0.611  0.182  -0.937   -0.244   1.00    4.1664  0.24002
+ProbeStim|Subject[1]  -0.036  0.203  -0.469    0.335   1.00  0.037654   26.558
+ProbeStim|Subject[3]   0.079  0.212  -0.309    0.521   1.00  0.038388    26.05
+ProbeStim|Subject[4]   0.034  0.196  -0.336    0.437   1.00  0.036854   27.134
+ProbeStim|Subject[5]  -0.005  0.199  -0.407    0.398   1.00  0.036596   27.325
+ProbeStim|Subject[6]   0.051  0.201  -0.314    0.489   1.00  0.035399    28.25
+ProbeStim|Subject[7]   0.009  0.201  -0.378    0.428   1.00  0.037826   26.437
+ProbeStim|Subject[8]   0.001  0.191  -0.387    0.382   1.00  0.037759   26.484
+ProbeStim|Subject[9]  -0.008  0.209  -0.431    0.399   1.01  0.036354   27.507
+ProbeStim|Subject[10] -0.078  0.217  -0.551    0.292   1.00  0.039082   25.587
+ProbeStim|Subject[11] -0.178  0.272  -0.743    0.190   1.00  0.047923   20.867
+ProbeStim|Subject[13]  0.062  0.207  -0.326    0.498   1.00  0.036161   27.654
+ProbeStim|Subject[14]  0.064  0.203  -0.319    0.473   1.00  0.040723   24.556
+
+true sensitivity: 0.43
+                        mean     sd  hdi_3%  hdi_97%  r_hat     bf_10   bf_01
+ProbeStim             -0.382  0.204  -0.777   -0.001    1.0   0.21145  4.7292
+ProbeStim|Subject[1]   0.069  0.265  -0.409    0.619    1.0  0.057824  17.294
+ProbeStim|Subject[3]   0.046  0.257  -0.472    0.560    1.0  0.050279  19.889
+ProbeStim|Subject[4]  -0.149  0.282  -0.738    0.326    1.0  0.063398  15.773
+ProbeStim|Subject[5]   0.019  0.262  -0.446    0.612    1.0  0.058816  17.002
+ProbeStim|Subject[6]   0.110  0.275  -0.437    0.636    1.0  0.065007  15.383
+ProbeStim|Subject[7]  -0.041  0.271  -0.602    0.466    1.0  0.056335  17.751
+ProbeStim|Subject[8]   0.088  0.267  -0.448    0.603    1.0  0.055054  18.164
+ProbeStim|Subject[9]  -0.126  0.283  -0.708    0.405    1.0  0.061446  16.274
+ProbeStim|Subject[10] -0.120  0.286  -0.710    0.402    1.0  0.064429  15.521
+ProbeStim|Subject[11] -0.200  0.307  -0.839    0.300    1.0  0.071127  14.059
+ProbeStim|Subject[13]  0.366  0.392  -0.176    1.165    1.0  0.094455  10.587
+ProbeStim|Subject[14] -0.077  0.271  -0.658    0.410    1.0  0.055936  17.878
+
+true sensitivity: 0.44
+                        mean     sd  hdi_3%  hdi_97%  r_hat     bf_10   bf_01
+ProbeStim             -0.341  0.183  -0.685   -0.004    1.0   0.19196  5.2094
+ProbeStim|Subject[1]  -0.022  0.182  -0.444    0.305    1.0  0.034319  29.138
+ProbeStim|Subject[3]   0.099  0.204  -0.206    0.544    1.0  0.039444  25.353
+ProbeStim|Subject[4]   0.002  0.175  -0.360    0.339    1.0  0.031359  31.889
+ProbeStim|Subject[5]   0.003  0.185  -0.375    0.370    1.0  0.032863   30.43
+ProbeStim|Subject[6]   0.040  0.181  -0.295    0.417    1.0  0.030828  32.438
+ProbeStim|Subject[7]  -0.075  0.198  -0.478    0.280    1.0  0.034232  29.212
+ProbeStim|Subject[8]  -0.064  0.194  -0.454    0.281    1.0  0.033367  29.969
+ProbeStim|Subject[9]   0.034  0.185  -0.271    0.458    1.0  0.035986  27.788
+ProbeStim|Subject[10] -0.006  0.177  -0.362    0.350    1.0  0.030986  32.272
+ProbeStim|Subject[11] -0.070  0.194  -0.459    0.256    1.0  0.037443  26.707
+ProbeStim|Subject[13]  0.047  0.182  -0.288    0.428    1.0   0.03533  28.304
+ProbeStim|Subject[14] -0.024  0.175  -0.399    0.300    1.0  0.031629  31.617
+
+true sensitivity: 0.45
+                        mean     sd  hdi_3%  hdi_97%  r_hat     bf_10    bf_01
+ProbeStim             -0.604  0.187  -0.988   -0.284    1.0    7.3819  0.13547
+ProbeStim|Subject[1]   0.087  0.223  -0.301    0.568    1.0  0.046084   21.699
+ProbeStim|Subject[3]   0.001  0.222  -0.465    0.426    1.0  0.045883   21.794
+ProbeStim|Subject[4]  -0.002  0.215  -0.397    0.464    1.0  0.041755   23.949
+ProbeStim|Subject[5]  -0.006  0.228  -0.436    0.470    1.0  0.045839   21.815
+ProbeStim|Subject[6]  -0.114  0.242  -0.615    0.295    1.0  0.048455   20.638
+ProbeStim|Subject[7]  -0.014  0.215  -0.449    0.400    1.0  0.043642   22.913
+ProbeStim|Subject[8]  -0.101  0.235  -0.604    0.299    1.0  0.046034   21.723
+ProbeStim|Subject[9]  -0.093  0.243  -0.642    0.317    1.0  0.047562   21.025
+ProbeStim|Subject[10]  0.049  0.221  -0.353    0.522    1.0  0.046993    21.28
+ProbeStim|Subject[11]  0.269  0.327  -0.140    0.985    1.0  0.066904   14.947
+ProbeStim|Subject[13] -0.031  0.228  -0.480    0.431    1.0   0.04528   22.085
+ProbeStim|Subject[14] -0.053  0.215  -0.507    0.341    1.0  0.043937    22.76
+
+true sensitivity: 0.46
+                        mean     sd  hdi_3%  hdi_97%  r_hat     bf_10    bf_01
+ProbeStim             -0.564  0.192  -0.904   -0.199    1.0    1.7519  0.57081
+ProbeStim|Subject[1]  -0.235  0.312  -0.890    0.208    1.0  0.059764   16.733
+ProbeStim|Subject[3]  -0.010  0.229  -0.475    0.440    1.0  0.047872   20.889
+ProbeStim|Subject[4]   0.108  0.244  -0.329    0.608    1.0  0.047776   20.931
+ProbeStim|Subject[5]  -0.040  0.243  -0.529    0.435    1.0  0.043411   23.036
+ProbeStim|Subject[6]  -0.153  0.267  -0.716    0.260    1.0  0.052884   18.909
+ProbeStim|Subject[7]   0.136  0.261  -0.280    0.684    1.0  0.055588    17.99
+ProbeStim|Subject[8]   0.040  0.234  -0.434    0.498    1.0  0.045853   21.809
+ProbeStim|Subject[9]   0.008  0.248  -0.535    0.472    1.0  0.045757   21.855
+ProbeStim|Subject[10]  0.064  0.252  -0.408    0.591    1.0  0.052749   18.958
+ProbeStim|Subject[11]  0.002  0.247  -0.461    0.516    1.0  0.045482   21.987
+ProbeStim|Subject[13] -0.089  0.253  -0.581    0.395    1.0  0.053011   18.864
+ProbeStim|Subject[14]  0.146  0.274  -0.300    0.732    1.0  0.052649   18.994
+
+true sensitivity: 0.47
+                        mean     sd  hdi_3%  hdi_97%  r_hat     bf_10   bf_01
+ProbeStim             -0.133  0.192  -0.512    0.205    1.0  0.046557  21.479
+ProbeStim|Subject[1]   0.253  0.315  -0.182    0.895    1.0  0.064497  15.505
+ProbeStim|Subject[3]   0.047  0.213  -0.347    0.499    1.0  0.038233  26.155
+ProbeStim|Subject[4]  -0.132  0.251  -0.664    0.276    1.0  0.045683   21.89
+ProbeStim|Subject[5]  -0.036  0.231  -0.534    0.383    1.0  0.042928  23.295
+ProbeStim|Subject[6]  -0.055  0.226  -0.534    0.353    1.0  0.038309  26.104
+ProbeStim|Subject[7]   0.012  0.214  -0.381    0.479    1.0  0.039555  25.281
+ProbeStim|Subject[8]  -0.022  0.213  -0.496    0.369    1.0  0.038428  26.022
+ProbeStim|Subject[9]   0.071  0.232  -0.315    0.602    1.0  0.039367  25.402
+ProbeStim|Subject[10]  0.020  0.221  -0.412    0.486    1.0  0.037752  26.489
+ProbeStim|Subject[11] -0.016  0.209  -0.495    0.356    1.0  0.039493  25.321
+ProbeStim|Subject[13] -0.140  0.252  -0.706    0.241    1.0  0.047061  21.249
+ProbeStim|Subject[14] -0.027  0.221  -0.496    0.385    1.0  0.038408  26.036
+
+true sensitivity: 0.48
+                        mean     sd  hdi_3%  hdi_97%  r_hat     bf_10   bf_01
+ProbeStim             -0.140  0.178  -0.479    0.180    1.0  0.048762  20.508
+ProbeStim|Subject[1]   0.071  0.186  -0.228    0.472    1.0  0.031705  31.541
+ProbeStim|Subject[3]   0.022  0.168  -0.298    0.395    1.0  0.028031  35.674
+ProbeStim|Subject[4]   0.064  0.170  -0.224    0.461    1.0  0.027863  35.889
+ProbeStim|Subject[5]   0.006  0.170  -0.322    0.360    1.0  0.027842  35.917
+ProbeStim|Subject[6]  -0.034  0.162  -0.390    0.259    1.0  0.029971  33.366
+ProbeStim|Subject[7]  -0.042  0.164  -0.370    0.281    1.0  0.028994  34.489
+ProbeStim|Subject[8]  -0.048  0.170  -0.418    0.257    1.0  0.029713  33.655
+ProbeStim|Subject[9]  -0.004  0.169  -0.330    0.345    1.0  0.027855  35.901
+ProbeStim|Subject[10]  0.015  0.175  -0.352    0.361    1.0  0.029858  33.492
+ProbeStim|Subject[11] -0.020  0.163  -0.364    0.294    1.0  0.028381  35.234
+ProbeStim|Subject[13] -0.039  0.166  -0.384    0.292    1.0   0.02704  36.982
+ProbeStim|Subject[14]  0.014  0.157  -0.280    0.359    1.0  0.026773  37.351
+
+true sensitivity: 0.49
+                        mean     sd  hdi_3%  hdi_97%  r_hat     bf_10   bf_01
+ProbeStim             -0.137  0.175  -0.442    0.202    1.0  0.050413  19.836
+ProbeStim|Subject[1]   0.056  0.181  -0.269    0.427    1.0  0.032252  31.006
+ProbeStim|Subject[3]  -0.013  0.174  -0.392    0.315    1.0   0.03043  32.863
+ProbeStim|Subject[4]   0.039  0.173  -0.275    0.420    1.0  0.030864    32.4
+ProbeStim|Subject[5]   0.006  0.177  -0.396    0.323    1.0  0.028691  34.854
+ProbeStim|Subject[6]  -0.036  0.167  -0.385    0.291    1.0  0.029858  33.492
+ProbeStim|Subject[7]  -0.001  0.166  -0.355    0.323    1.0  0.029304  34.125
+ProbeStim|Subject[8]  -0.026  0.171  -0.374    0.295    1.0  0.030647  32.629
+ProbeStim|Subject[9]  -0.069  0.191  -0.501    0.237    1.0   0.03063  32.648
+ProbeStim|Subject[10]  0.007  0.169  -0.323    0.379    1.0  0.031711  31.535
+ProbeStim|Subject[11] -0.042  0.171  -0.408    0.280    1.0  0.029812  33.543
+ProbeStim|Subject[13]  0.008  0.171  -0.301    0.398    1.0  0.029294  34.137
+ProbeStim|Subject[14]  0.080  0.189  -0.223    0.506    1.0  0.034178  29.259
+
+true sensitivity: 0.5
+                        mean     sd  hdi_3%  hdi_97%  r_hat     bf_10   bf_01
+ProbeStim              0.500  0.187   0.163    0.860    1.0    1.1335  0.8822
+ProbeStim|Subject[1]   0.027  0.193  -0.348    0.429    1.0  0.037552   26.63
+ProbeStim|Subject[3]   0.126  0.225  -0.243    0.601    1.0  0.041817  23.914
+ProbeStim|Subject[4]  -0.003  0.197  -0.430    0.387    1.0  0.037531  26.645
+ProbeStim|Subject[5]  -0.037  0.199  -0.434    0.359    1.0  0.039819  25.114
+ProbeStim|Subject[6]   0.068  0.209  -0.293    0.516    1.0  0.037004  27.024
+ProbeStim|Subject[7]  -0.047  0.200  -0.494    0.303    1.0  0.036991  27.034
+ProbeStim|Subject[8]  -0.119  0.230  -0.588    0.281    1.0  0.042584  23.483
+ProbeStim|Subject[9]  -0.024  0.202  -0.431    0.387    1.0   0.03712   26.94
+ProbeStim|Subject[10]  0.076  0.201  -0.241    0.540    1.0   0.03735  26.774
+ProbeStim|Subject[11] -0.061  0.205  -0.484    0.331    1.0  0.038614  25.897
+ProbeStim|Subject[13] -0.078  0.207  -0.505    0.289    1.0   0.03992   25.05
+ProbeStim|Subject[14]  0.067  0.203  -0.309    0.488    1.0  0.037535  26.642
+
+true sensitivity: 0.51
+                        mean     sd  hdi_3%  hdi_97%  r_hat     bf_10   bf_01
+ProbeStim              0.216  0.195  -0.148    0.577    1.0  0.077623  12.883
+ProbeStim|Subject[1]  -0.024  0.222  -0.478    0.422    1.0  0.053713  18.618
+ProbeStim|Subject[3]   0.031  0.228  -0.398    0.517    1.0  0.050804  19.683
+ProbeStim|Subject[4]  -0.257  0.308  -0.937    0.148    1.0  0.068675  14.561
+ProbeStim|Subject[5]  -0.142  0.253  -0.712    0.241    1.0  0.051882  19.274
+ProbeStim|Subject[6]   0.022  0.229  -0.445    0.480    1.0  0.050102  19.959
+ProbeStim|Subject[7]   0.088  0.235  -0.348    0.574    1.0  0.048928  20.438
+ProbeStim|Subject[8]   0.022  0.224  -0.440    0.445    1.0  0.045363  22.044
+ProbeStim|Subject[9]   0.141  0.273  -0.335    0.698    1.0  0.053564  18.669
+ProbeStim|Subject[10] -0.064  0.242  -0.588    0.348    1.0  0.052063  19.208
+ProbeStim|Subject[11] -0.055  0.238  -0.551    0.400    1.0  0.048047  20.813
+ProbeStim|Subject[13]  0.054  0.243  -0.351    0.639    1.0  0.047734   20.95
+ProbeStim|Subject[14]  0.158  0.260  -0.282    0.668    1.0  0.054787  18.252
+
+true sensitivity: 0.52
+                        mean     sd  hdi_3%  hdi_97%  r_hat     bf_10   bf_01
+ProbeStim              0.108  0.199  -0.269    0.487    1.0  0.039669  25.209
+ProbeStim|Subject[1]  -0.196  0.309  -0.804    0.338    1.0  0.074411  13.439
+ProbeStim|Subject[3]   0.095  0.274  -0.430    0.632    1.0  0.063508  15.746
+ProbeStim|Subject[4]   0.215  0.303  -0.277    0.819    1.0  0.078792  12.692
+ProbeStim|Subject[5]   0.055  0.275  -0.492    0.585    1.0  0.064787  15.435
+ProbeStim|Subject[6]  -0.218  0.305  -0.822    0.285    1.0  0.084223  11.873
+ProbeStim|Subject[7]   0.104  0.272  -0.411    0.643    1.0  0.066223    15.1
+ProbeStim|Subject[8]  -0.203  0.305  -0.861    0.283    1.0  0.073879  13.536
+ProbeStim|Subject[9]   0.059  0.279  -0.483    0.628    1.0   0.06943  14.403
+ProbeStim|Subject[10]  0.084  0.288  -0.450    0.676    1.0  0.065807  15.196
+ProbeStim|Subject[11] -0.164  0.292  -0.823    0.278    1.0  0.073807  13.549
+ProbeStim|Subject[13] -0.137  0.280  -0.741    0.316    1.0  0.068316  14.638
+ProbeStim|Subject[14]  0.271  0.325  -0.233    0.915    1.0  0.084087  11.892
+
+true sensitivity: 0.53
+                        mean     sd  hdi_3%  hdi_97%  r_hat     bf_10   bf_01
+ProbeStim              0.367  0.185   0.017    0.712    1.0    0.2519  3.9699
+ProbeStim|Subject[1]   0.057  0.214  -0.355    0.505    1.0   0.04116  24.295
+ProbeStim|Subject[3]  -0.044  0.213  -0.519    0.337    1.0   0.04215  23.725
+ProbeStim|Subject[4]  -0.117  0.224  -0.585    0.275    1.0  0.046571  21.473
+ProbeStim|Subject[5]  -0.119  0.233  -0.624    0.254    1.0  0.046809  21.363
+ProbeStim|Subject[6]  -0.050  0.204  -0.470    0.358    1.0  0.042289  23.647
+ProbeStim|Subject[7]   0.101  0.232  -0.317    0.576    1.0  0.046121  21.682
+ProbeStim|Subject[8]   0.039  0.210  -0.356    0.487    1.0  0.043916  22.771
+ProbeStim|Subject[9]  -0.043  0.220  -0.507    0.383    1.0   0.04542  22.017
+ProbeStim|Subject[10]  0.003  0.218  -0.414    0.460    1.0  0.046642   21.44
+ProbeStim|Subject[11] -0.012  0.200  -0.403    0.403    1.0  0.041352  24.183
+ProbeStim|Subject[13]  0.187  0.287  -0.208    0.800    1.0   0.05415  18.467
+ProbeStim|Subject[14]  0.016  0.209  -0.400    0.439    1.0  0.046076  21.703
+
+true sensitivity: 0.54
+                        mean     sd  hdi_3%  hdi_97%  r_hat     bf_10   bf_01
+ProbeStim              0.525  0.238   0.100    0.984    1.0   0.63924  1.5644
+ProbeStim|Subject[1]   0.014  0.358  -0.633    0.757    1.0  0.091874  10.884
+ProbeStim|Subject[3]   0.035  0.348  -0.629    0.723    1.0  0.092613  10.798
+ProbeStim|Subject[4]  -0.137  0.358  -0.862    0.514    1.0  0.095407  10.481
+ProbeStim|Subject[5]   0.045  0.359  -0.673    0.696    1.0  0.092852   10.77
+ProbeStim|Subject[6]   0.299  0.387  -0.407    1.033    1.0   0.12583   7.947
+ProbeStim|Subject[7]   0.105  0.342  -0.567    0.760    1.0  0.096858  10.324
+ProbeStim|Subject[8]   0.540  0.436  -0.151    1.358    1.0   0.19284  5.1855
+ProbeStim|Subject[9]  -0.519  0.438  -1.374    0.190    1.0   0.19299  5.1817
+ProbeStim|Subject[10] -0.510  0.420  -1.316    0.154    1.0   0.19925  5.0188
+ProbeStim|Subject[11] -0.372  0.391  -1.108    0.310    1.0   0.14496  6.8986
+ProbeStim|Subject[13]  0.160  0.369  -0.563    0.853    1.0   0.10712  9.3356
+ProbeStim|Subject[14]  0.348  0.378  -0.290    1.114    1.0   0.11352  8.8092
+
+true sensitivity: 0.55
+                        mean     sd  hdi_3%  hdi_97%  r_hat     bf_10    bf_01
+ProbeStim              0.731  0.197   0.351    1.086    1.0    92.249  0.01084
+ProbeStim|Subject[1]   0.169  0.268  -0.228    0.748    1.0  0.056397   17.731
+ProbeStim|Subject[3]  -0.002  0.217  -0.429    0.451    1.0  0.047108   21.228
+ProbeStim|Subject[4]  -0.070  0.221  -0.548    0.335    1.0  0.045444   22.005
+ProbeStim|Subject[5]  -0.107  0.247  -0.700    0.262    1.0   0.05202   19.223
+ProbeStim|Subject[6]   0.003  0.221  -0.469    0.445    1.0   0.04146   24.119
+ProbeStim|Subject[7]   0.076  0.227  -0.311    0.580    1.0  0.049874   20.051
+ProbeStim|Subject[8]  -0.035  0.214  -0.477    0.380    1.0  0.043703   22.882
+ProbeStim|Subject[9]   0.033  0.220  -0.367    0.512    1.0  0.044751   22.346
+ProbeStim|Subject[10] -0.195  0.289  -0.780    0.245    1.0  0.063717   15.694
+ProbeStim|Subject[11] -0.053  0.220  -0.540    0.351    1.0  0.046852   21.344
+ProbeStim|Subject[13]  0.129  0.254  -0.294    0.658    1.0  0.048033   20.819
+ProbeStim|Subject[14]  0.046  0.220  -0.339    0.557    1.0  0.047272   21.154
+
+true sensitivity: 0.56
+                        mean     sd  hdi_3%  hdi_97%  r_hat     bf_10    bf_01
+ProbeStim              0.601  0.210   0.202    0.988    1.0    2.1146  0.47291
+ProbeStim|Subject[1]   0.026  0.276  -0.512    0.572    1.0  0.061182   16.345
+ProbeStim|Subject[3]   0.096  0.273  -0.394    0.667    1.0  0.060033   16.657
+ProbeStim|Subject[4]   0.017  0.271  -0.547    0.523    1.0  0.064795   15.433
+ProbeStim|Subject[5]  -0.014  0.273  -0.595    0.521    1.0  0.057759   17.313
+ProbeStim|Subject[6]   0.001  0.273  -0.557    0.538    1.0  0.058729   17.027
+ProbeStim|Subject[7]   0.031  0.261  -0.477    0.552    1.0  0.056866   17.585
+ProbeStim|Subject[8]  -0.051  0.277  -0.638    0.455    1.0  0.063608   15.721
+ProbeStim|Subject[9]   0.012  0.278  -0.563    0.560    1.0  0.063329   15.791
+ProbeStim|Subject[10]  0.391  0.393  -0.169    1.141    1.0   0.10431   9.5866
+ProbeStim|Subject[11] -0.346  0.361  -1.045    0.185    1.0  0.090171    11.09
+ProbeStim|Subject[13]  0.048  0.276  -0.510    0.563    1.0  0.059654   16.763
+ProbeStim|Subject[14] -0.229  0.314  -0.903    0.233    1.0  0.073864   13.538
+
+true sensitivity: 0.57
+                        mean     sd  hdi_3%  hdi_97%  r_hat     bf_10   bf_01
+ProbeStim              0.473  0.178   0.139    0.812    1.0   0.99705   1.003
+ProbeStim|Subject[1]  -0.015  0.170  -0.352    0.336    1.0   0.02871  34.831
+ProbeStim|Subject[3]  -0.038  0.173  -0.400    0.285    1.0  0.029146   34.31
+ProbeStim|Subject[4]   0.034  0.171  -0.292    0.410    1.0  0.027136  36.852
+ProbeStim|Subject[5]   0.001  0.175  -0.330    0.385    1.0   0.03308   30.23
+ProbeStim|Subject[6]  -0.017  0.169  -0.367    0.335    1.0  0.028219  35.437
+ProbeStim|Subject[7]   0.046  0.176  -0.282    0.406    1.0  0.030493  32.794
+ProbeStim|Subject[8]  -0.046  0.169  -0.424    0.255    1.0   0.02884  34.674
+ProbeStim|Subject[9]  -0.002  0.170  -0.400    0.306    1.0  0.026987  37.055
+ProbeStim|Subject[10] -0.056  0.174  -0.437    0.265    1.0  0.029177  34.274
+ProbeStim|Subject[11] -0.033  0.177  -0.371    0.326    1.0   0.03084  32.425
+ProbeStim|Subject[13]  0.059  0.184  -0.275    0.446    1.0  0.030285   33.02
+ProbeStim|Subject[14]  0.063  0.183  -0.256    0.451    1.0  0.028898  34.604
+
+true sensitivity: 0.58
+                        mean     sd  hdi_3%  hdi_97%  r_hat       bf_10  \
+ProbeStim              0.901  0.178   0.570    1.243    1.0  5.5155e+20   
+ProbeStim|Subject[1]  -0.024  0.182  -0.392    0.340    1.0    0.033198   
+ProbeStim|Subject[3]  -0.042  0.179  -0.440    0.285    1.0    0.031757   
+ProbeStim|Subject[4]  -0.083  0.194  -0.499    0.261    1.0    0.032048   
+ProbeStim|Subject[5]  -0.005  0.182  -0.406    0.348    1.0    0.031883   
+ProbeStim|Subject[6]   0.094  0.202  -0.216    0.560    1.0    0.032946   
+ProbeStim|Subject[7]  -0.027  0.178  -0.462    0.277    1.0    0.031561   
+ProbeStim|Subject[8]  -0.002  0.172  -0.378    0.328    1.0    0.027914   
+ProbeStim|Subject[9]  -0.014  0.174  -0.379    0.358    1.0    0.028681   
+ProbeStim|Subject[10] -0.060  0.189  -0.463    0.271    1.0    0.029392   
+ProbeStim|Subject[11]  0.073  0.204  -0.288    0.498    1.0    0.033553   
+ProbeStim|Subject[13]  0.075  0.195  -0.242    0.505    1.0    0.030585   
+ProbeStim|Subject[14]  0.002  0.174  -0.331    0.345    1.0    0.029318   
+
+                            bf_01  
+ProbeStim              1.8131e-21  
+ProbeStim|Subject[1]       30.123  
+ProbeStim|Subject[3]       31.489  
+ProbeStim|Subject[4]       31.203  
+ProbeStim|Subject[5]       31.365  
+ProbeStim|Subject[6]       30.353  
+ProbeStim|Subject[7]       31.684  
+ProbeStim|Subject[8]       35.824  
+ProbeStim|Subject[9]       34.866  
+ProbeStim|Subject[10]      34.023  
+ProbeStim|Subject[11]      29.804  
+ProbeStim|Subject[13]      32.695  
+ProbeStim|Subject[14]      34.109  
+
+true sensitivity: 0.59
+                        mean     sd  hdi_3%  hdi_97%  r_hat     bf_10  \
+ProbeStim              0.889  0.236   0.424    1.313    1.0    102.14   
+ProbeStim|Subject[1]   0.026  0.345  -0.627    0.698    1.0  0.094767   
+ProbeStim|Subject[3]  -0.465  0.393  -1.214    0.183    1.0   0.16587   
+ProbeStim|Subject[4]   0.087  0.328  -0.522    0.723    1.0  0.090559   
+ProbeStim|Subject[5]  -0.031  0.347  -0.730    0.605    1.0  0.090771   
+ProbeStim|Subject[6]  -0.052  0.341  -0.717    0.600    1.0  0.089537   
+ProbeStim|Subject[7]   0.028  0.341  -0.630    0.685    1.0   0.10151   
+ProbeStim|Subject[8]  -0.205  0.352  -0.940    0.377    1.0   0.10499   
+ProbeStim|Subject[9]   0.161  0.371  -0.510    0.912    1.0   0.11171   
+ProbeStim|Subject[10] -0.006  0.347  -0.656    0.690    1.0  0.092362   
+ProbeStim|Subject[11] -0.506  0.414  -1.246    0.227    1.0   0.19876   
+ProbeStim|Subject[13]  0.296  0.391  -0.364    1.102    1.0    0.1161   
+ProbeStim|Subject[14]  0.712  0.511  -0.106    1.645    1.0   0.26624   
+
+                           bf_01  
+ProbeStim              0.0097907  
+ProbeStim|Subject[1]      10.552  
+ProbeStim|Subject[3]      6.0288  
+ProbeStim|Subject[4]      11.042  
+ProbeStim|Subject[5]      11.017  
+ProbeStim|Subject[6]      11.169  
+ProbeStim|Subject[7]      9.8515  
+ProbeStim|Subject[8]      9.5246  
+ProbeStim|Subject[9]      8.9517  
+ProbeStim|Subject[10]     10.827  
+ProbeStim|Subject[11]     5.0312  
+ProbeStim|Subject[13]     8.6129  
+ProbeStim|Subject[14]      3.756  
+
+true sensitivity: 0.6
+                        mean     sd  hdi_3%  hdi_97%  r_hat     bf_10    bf_01
+ProbeStim              0.493  0.180   0.164    0.845    1.0     1.149  0.87032
+ProbeStim|Subject[1]   0.076  0.193  -0.245    0.492    1.0  0.036888   27.109
+ProbeStim|Subject[3]   0.011  0.174  -0.320    0.393    1.0  0.030751    32.52
+ProbeStim|Subject[4]   0.003  0.172  -0.363    0.338    1.0  0.032441   30.825
+ProbeStim|Subject[5]  -0.082  0.195  -0.492    0.251    1.0  0.036045   27.743
+ProbeStim|Subject[6]   0.004  0.177  -0.345    0.356    1.0  0.030848   32.417
+ProbeStim|Subject[7]  -0.034  0.176  -0.418    0.293    1.0  0.030507   32.779
+ProbeStim|Subject[8]   0.097  0.210  -0.228    0.549    1.0  0.038986   25.651
+ProbeStim|Subject[9]   0.024  0.185  -0.332    0.401    1.0  0.034086   29.337
+ProbeStim|Subject[10] -0.066  0.191  -0.475    0.260    1.0  0.035577   28.108
+ProbeStim|Subject[11]  0.025  0.171  -0.291    0.400    1.0  0.030502   32.784
+ProbeStim|Subject[13] -0.013  0.176  -0.348    0.356    1.0  0.032934   30.364
+ProbeStim|Subject[14] -0.049  0.177  -0.424    0.277    1.0  0.031732   31.514
+

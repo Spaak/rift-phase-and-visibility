@@ -1,0 +1,18 @@
+2x2:
+                                            mean     sd  hdi_3%  hdi_97%  r_hat        bf_10        bf_01
+Phases[Random]                            -3.620  0.262  -4.127   -3.135    1.0          inf            0
+Reference[Phase-corrected]                 1.800  0.261   1.307    2.281    1.0   1.2453e+47   8.0304e-48
+Phases:Reference[Random, Phase-corrected]  2.816  0.368   2.128    3.483    1.0  4.4048e+120  2.2702e-121
+
+ cellwise:
+                                                   mean     sd  hdi_3%  hdi_97%  r_hat       bf_10       bf_01
+Phases:Reference[Fixed, ITC]                      3.726  0.238   3.311    4.197    1.0         inf           0
+Phases:Reference[Fixed, Phase-corrected]          5.522  0.244   5.024    5.951    1.0         inf           0
+Phases:Reference[Random, ITC]                     0.102  0.245  -0.343    0.580    1.0    0.018198      54.951
+Phases:Reference[Random, Phase-corrected]         4.717  0.242   4.285    5.183    1.0         inf           0
+Fixed, ITC - Fixed, Phase-corrected              -1.796  0.261  -2.318   -1.331    1.0  1.8725e+51  5.3405e-52
+Fixed, ITC - Random, ITC                          3.625  0.256   3.145    4.105    1.0         inf           0
+Fixed, ITC - Random, Phase-corrected             -0.991  0.258  -1.493   -0.521    1.0      42.313    0.023633
+Fixed, Phase-corrected - Random, ITC              5.421  0.262   4.923    5.909    1.0         inf           0
+Fixed, Phase-corrected - Random, Phase-corrected  0.805  0.256   0.344    1.293    1.0      1.3813     0.72395
+Random, ITC - Random, Phase-corrected            -4.615  0.266  -5.141   -4.148    1.0         inf           0
