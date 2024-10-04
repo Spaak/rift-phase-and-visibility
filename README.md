@@ -48,7 +48,7 @@ For the Python code, a complete conda environment specification is included unde
 
 
 - General files:
-	- fetch_clean_data.m
+	- `fetch_clean_data.m`
 		- Loads from:
 			- `/project/3018045.03/scratch/sub%03d-cleaned-600Hz.mat`
 			- `/project/3018045.03/scratch/sub%03d-cleaned-600Hz-attnblocks.mat`
